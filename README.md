@@ -1,1 +1,2 @@
 # prueba
+![](favorites.gif)
